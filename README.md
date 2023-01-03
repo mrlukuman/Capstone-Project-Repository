@@ -1,19 +1,18 @@
 # Capstone-Project-Repository
-
-
 Final Year Project.
 
 # ML AND DL AIDED COLON CANCER DIAGNOSIS
 
-# Supervisors
-Refika Sultan Doğan
-Bulent Yılmaz
+## Supervisors
 
-# Students
+1. Prof. Bulent Yılmaz
+2. Refika Sultan Doğan
 
-Tajudeen Lukuman Aleru
-Amir Shemsu Lale
-Nehlin Shariat
+## Students
+
+1. Tajudeen Lukuman Aleru
+2. Amir Shemsu Lale
+3. Nehlin Shariat
 
 # Progress
 
