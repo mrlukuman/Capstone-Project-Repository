@@ -16,7 +16,7 @@ Final Year Project.
 
 ## Flowchart
 
-<img src="" alt="Flowchart diagram"></img>
+<img src="flowchart.jpg" alt="Flowchart diagram" style="width: 50%"></img>
 
 # Progress
 
